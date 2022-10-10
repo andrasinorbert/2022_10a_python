@@ -1,0 +1,8 @@
+1. Az osztály diákjainak magassága névsor alapján:
+	170, 193,186, 167, 175, 194, 164
+    Adjuk meg, névsor szerint, hanyadik diák a legalacsonyabb, és hanyadik a legmagasabb!
+
+2. Az 1. feladatban található magasságok közül,
+    hány diák magassága páros szám?
+
+3. Adjuk meg, hogy mennyi az osztály átlagmagassága! (1.feladat)
