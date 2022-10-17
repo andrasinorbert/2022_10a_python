@@ -24,3 +24,5 @@ import math
 while not(math.sqrt(i)%1==0):
     i+=1
 print(i)
+
+
