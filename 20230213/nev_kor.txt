@@ -1,0 +1,5 @@
+Gizi;65
+Róbert;12
+Liza;9
+Gregg;17
+Ákos;16
