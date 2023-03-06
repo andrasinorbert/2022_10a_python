@@ -1,0 +1,5 @@
+Név Magasság Kor
+Ágoston 160 22
+Béla 120 10
+András 210 30
+Klaudia 175 23
