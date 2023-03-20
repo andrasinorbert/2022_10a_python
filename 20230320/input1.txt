@@ -1,0 +1,5 @@
+Név;Magasság;Kor
+Anna;153;13
+Laci;175;16
+János;186;18
+Klára;165;15
