@@ -101,9 +101,45 @@ Az input02.txt tartalma:
     -68
     -89
 
-A szamokfejlecdb.txt fájlban valamennyi egész szám található, minden sorban 1-1 darab. A fejlécben megtalálható ezek darabszáma. Olvasd be és tárold el egy tömbbe a számokat! Oldd meg a következő feladatokat, és írd ki a képernyőre az eredményeket!
+A fájlban valamennyi egész szám található, minden sorban 1-1 darab. A fejlécben megtalálható ezek darabszáma. Olvasd be és tárold el egy tömbbe a számokat! Oldd meg a következő feladatokat, és írd ki a képernyőre az eredményeket!
 
 1. Hány olyan szám van a fájlban, amely eléri a 15-öt?
 1. Írd ki a számokat növekvő sorrendben!
 1. Van-e a számok között 0?
 1. Melyik a legnagyobb szám a fájlban?
+
+## 3)
+
+Az input03.txt tartalma:
+
+    A fajlban egesz szamokat talalsz.
+    A szamok veletlen szamok a [-50;50] intervallumbol.
+    -19
+    9
+    -48
+    15
+    -32
+    -17
+    37
+    37
+    -12
+    28
+    47
+    -19
+    19
+    -39
+    -9
+    5
+    5
+    -47
+    15
+    -32
+    -48
+
+A fájlban valamennyi egész szám található, minden sorban 1-1 darab. A fájl fejlécet is tartalmaz, amelyben információt találsz ezekről a számokról. Olvasd be és tárold el egy tömbbe a számokat! Oldd meg a következő feladatokat, és írd ki a képernyőre az eredményeket!
+
+1. Van-e a fájlban egymás utáni sorokban azonos szám?
+1. Hányadik szám a legkisebb a fájlban?
+1. Hány olyan szám van a fájlban, ami előtt és után őt meghaladó szám található.
+1. Ha van benne olyan szám, amely egyenlő valamelyik szomszédja abszolút értékével, írd ki ezeket a számpárokat. Ha nincs ilyen, írd ki a nincs szót a képernyőre!
+
