@@ -42,7 +42,7 @@ A fájlban 30 egész szám található, soronként 1-1 darab. Olvasd be és tár
 1. Válogasd ki a fájlban található számok közül a páratlanokat egy másik tömbbe, majd írd ki őket!
 1. Írd ki a számok közül a kétjegyűeket!
 
-# 2)
+## 2)
 
 Az input02.txt tartalma:
 
