@@ -429,3 +429,211 @@ Olvasd be és tárold el egy tömbbe az állatokat! Oldd meg a következő felad
 1. Rendezd a lajhárokat életkor szerint növekvő sorrendbe!
 1. Sikeres pároknak tekintjük azokat a hímeket és nőstényeket, akik kölykökkel rendelkeznek. Kik lehetnek párok a lajhárok között, ha az azonos kölyökszámmal rendelkezőket egy párnak vesszük?
 
+## 10)
+
+Az input10.txt tartalma:
+
+    https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+    year;programming language;first name; last name of chief developer
+    1972;C;Dennis; Ritchie
+    1964;BASIC;John George;Kemeny
+    1964;BASIC;Thomas Eugene;Kurtz
+    1995;Java;James;Gosling
+    1983;C++;Bjarne;Stroustrup
+    1987;Perl;Larry;Wall
+    1995;JavaScript;Brendan;Eich
+    1970;Pascal;Niklaus; Wirth
+    1946;ENIAC Short Code;Richard; Clippinger
+    1946;ENIAC Short Code;John;von Neumann
+    1995;PHP;Rasmus;Lerdorf
+    1989;Python;Guido;Van Rossum
+    2000;C#;Anders;Hejlsberg
+    1970;Pascal;Kathleen;Jensen
+
+A mellékelt fájl néhány ismert programozási nyelv adatát tartalmazza. Olvasd be a fájl tartalmát és tárold el
+
+1. egy listában, melynek elemei szótárak,
+1. egy kétdimenziós listában!
+
+mind a két esetben az évszám int típusként kerüljön rögzítésre!
+
+## 11)
+
+Az input11.txt tartalma:
+
+    A PÁRDUC
+
+    Szeme a rácsok futásába veszve
+    úgy kimerűlt, hogy már semmit se lát.
+    Ugy érzi, mintha rács ezernyi lenne
+    s ezer rács mögött nem lenne világ.
+
+    Puha lépte acéllá tömörűl
+    s a legparányibb körbe fogva jár:
+    az erő tánca ez egy pont körűl,
+    melyben egy ájúlt, nagy akarat áll.
+
+    Csak néha fut fel a pupilla néma
+    függönye. Ekkor egy kép beszökik,
+    átvillan a feszült tagokon és a
+    szívbe ér - és ott megszünik.
+
+A mellékelt fájl Rainer Maria Rilke: A párduc című versét tartalmazza Szabó Lőrinc fordításában (forrás: Magyar Elektronikus Könyvtár). Az általad írt program olvassa be a fájl tartalmát, és adja meg a válaszokat az alábbi kérdésekre:
+
+1. hány betűt tartalmaz a vers,
+1. hány magánhangzót tartalmaz a vers,
+1. hány szó fordul elő a versben?
+
+## 12)
+
+Az input12.txt tartalma:
+
+    112
+    14 1 2 0 2 Agarak Ovatosak
+    5 4 0 1 0 Erosek Agarak
+    4 0 2 0 2 Ijedtek Hevesek
+    8 1 1 0 0 Ijedtek Nyulak
+    8 3 2 3 1 Lelkesek Bogarak
+    13 0 1 0 1 Fineszesek Csikosak
+    2 1 0 0 0 Pechesek Csikosak
+    1 4 0 2 0 Csikosak Kedvesek
+    9 2 0 0 0 Nyulak Lelkesek
+    6 0 2 0 0 Ovatosak Nyulak
+    8 1 2 1 0 Gyoztesek Jelmezesek
+    8 1 2 1 2 Ovatosak Pechesek
+    4 1 2 0 2 Kedvesek Nyulak
+    5 0 1 0 1 Nyulak Pechesek
+    12 0 2 0 0 Erosek Nyulak
+    4 3 1 1 1 Agarak Jelmezesek
+    7 1 3 0 0 Kedvesek Ovatosak
+    11 1 0 0 0 Pechesek Lelkesek
+    10 2 4 0 2 Gyoztesek Csikosak
+    11 0 1 0 1 Csikosak Hevesek
+    13 1 1 1 1 Pechesek Agarak
+    8 1 2 1 1 Darabosak Fineszesek
+    3 3 0 3 0 Erosek Lelkesek
+    3 1 1 1 0 Jelmezesek Nyulak
+    5 3 4 0 3 Kedvesek Jelmezesek
+    9 1 0 0 0 Fineszesek Agarak
+    8 2 3 0 2 Agarak Csikosak
+    10 1 0 0 0 Darabosak Nyulak
+    14 1 2 0 0 Darabosak Mereszek
+    6 1 0 0 0 Darabosak Hevesek
+    13 2 1 1 0 Mereszek Lelkesek
+    6 0 0 0 0 Mereszek Bogarak
+    11 0 1 0 0 Jelmezesek Mereszek
+    11 0 0 0 0 Bogarak Erosek
+    2 2 0 1 0 Nyulak Bogarak
+    14 3 1 3 0 Erosek Pechesek
+    12 0 1 0 0 Agarak Kedvesek
+    2 0 2 0 2 Kedvesek Fineszesek
+    6 2 1 2 1 Erosek Jelmezesek
+    7 2 0 0 0 Csikosak Darabosak
+    13 0 0 0 0 Jelmezesek Ijedtek
+    10 0 0 0 0 Agarak Bogarak
+    1 2 0 2 0 Gyoztesek Ovatosak
+    6 2 1 1 1 Ijedtek Fineszesek
+    13 1 3 0 1 Kedvesek Erosek
+    7 2 1 0 1 Bogarak Ijedtek
+    5 1 3 1 2 Fineszesek Mereszek
+    2 3 3 3 3 Mereszek Gyoztesek
+    5 1 0 0 0 Csikosak Ijedtek
+    1 2 3 1 3 Hevesek Pechesek
+    11 1 3 1 0 Ovatosak Ijedtek
+    7 1 0 0 0 Hevesek Agarak
+    9 1 0 0 0 Csikosak Erosek
+    8 2 2 1 2 Mereszek Kedvesek
+    9 4 3 0 0 Kedvesek Ijedtek
+    12 2 2 1 1 Csikosak Jelmezesek
+    3 2 2 0 1 Bogarak Kedvesek
+    3 4 1 3 0 Csikosak Ovatosak
+    10 1 0 0 0 Lelkesek Kedvesek
+    3 3 0 0 0 Gyoztesek Ijedtek
+    6 1 5 1 3 Lelkesek Csikosak
+    9 2 0 1 0 Jelmezesek Ovatosak
+    7 1 2 1 1 Jelmezesek Pechesek
+    14 2 3 1 0 Gyoztesek Kedvesek
+    10 1 0 0 0 Hevesek Jelmezesek
+    14 1 0 1 0 Csikosak Bogarak
+    5 4 2 3 0 Gyoztesek Darabosak
+    14 3 2 2 2 Hevesek Nyulak
+    13 2 0 1 0 Bogarak Hevesek
+    9 4 1 1 0 Pechesek Mereszek
+    1 0 1 0 1 Darabosak Lelkesek
+    3 0 1 0 0 Agarak Darabosak
+    7 1 2 1 0 Fineszesek Lelkesek
+    2 2 2 0 2 Lelkesek Agarak
+    4 1 0 1 0 Ovatosak Fineszesek
+    4 0 1 0 1 Mereszek Csikosak
+    1 1 0 1 0 Fineszesek Nyulak
+    12 3 1 0 0 Darabosak Pechesek
+    12 0 0 0 0 Lelkesek Ovatosak
+    10 1 1 1 1 Erosek Fineszesek
+    2 0 0 0 0 Ijedtek Erosek
+    9 2 0 1 0 Hevesek Gyoztesek
+    14 2 1 1 1 Fineszesek Jelmezesek
+    12 0 1 0 1 Ijedtek Mereszek
+    7 1 0 0 0 Nyulak Mereszek
+    13 1 0 0 0 Ovatosak Darabosak
+    2 2 2 2 2 Jelmezesek Darabosak
+    6 2 2 0 2 Agarak Gyoztesek
+    6 3 0 1 0 Pechesek Kedvesek
+    14 0 1 0 0 Lelkesek Ijedtek
+    11 1 0 0 0 Nyulak Agarak
+    11 3 1 2 0 Fineszesek Gyoztesek
+    1 0 2 0 1 Agarak Ijedtek
+    1 2 0 0 0 Bogarak Jelmezesek
+    9 3 1 3 1 Bogarak Darabosak
+    7 2 1 1 1 Gyoztesek Erosek
+    10 0 0 0 0 Mereszek Ovatosak
+    12 2 1 2 1 Gyoztesek Bogarak
+    4 1 2 1 2 Darabosak Erosek
+    4 2 0 0 0 Lelkesek Gyoztesek
+    3 1 4 1 4 Fineszesek Pechesek
+    5 2 0 2 0 Bogarak Ovatosak
+    13 2 0 2 0 Nyulak Gyoztesek
+    5 2 0 1 0 Hevesek Lelkesek
+    3 2 2 1 2 Hevesek Mereszek
+    2 2 1 1 0 Ovatosak Hevesek
+    11 1 1 0 1 Kedvesek Darabosak
+    1 2 1 0 0 Erosek Mereszek
+    10 2 0 0 0 Ijedtek Pechesek
+
+Foci:
+Tavasszal minden csapat minden csapattal pontosan egy mérkőzést játszott. Az eredménylista azonban eltűnt, így csak a mérkőzések jegyzőkönyvei vannak meg. A jegyzőkönyveket az input12.txt állományba tartalmazza. Az állomány első sorában az állományban tárolt mérkőzések száma található. Alatta minden sorban egy-egy mérkőzés adatai olvashatók. Egy mérkőzést 7 adat ír le. Az első megadja, hogy a mérkőzést melyik fordulóban játszották le. A második a hazai, a harmadik a vendégcsapat góljainak száma a mérkőzés végén, a negyedik és ötödik a félidőben elért gólokat jelöli. A hatodik szöveg a hazai csapat neve, a hetedik a vendégcsapat neve. Az egyes adatokat egyetlen szóköz választja el egymástól. A sor végén nincs szóköz. A csapatok és a fordulók száma nem haladja meg a 20, a mérkőzések száma pedig a 400 értéket. Egy csapat sem rúgott meccsenként 9 gólnál
+többet. A csapatok neve legfeljebb 20 karakter hosszú, a névben nincs szóköz.
+
+Pl:
+
+    112
+    14 1 2 0 2 Agarak Ovatosak
+    5 4 0 1 0 Erosek Agarak
+    4 0 2 0 2 Ijedtek Hevesek
+    8 1 1 0 0 Ijedtek Nyulak
+
+Az 2. sor mutatja, hogy a 14. fordulóban az otthon játszó Agarakat az Óvatosak 2-1-re megverték úgy, hogy a félidőben már vezettek 2-0-ra.
+
+Készítsen programot, amely az alábbi kérdésekre válaszol!
+
+A képernyőre írást igénylő részfeladatok eredményének megjelenítése előtt írja a képernyőre a feladat sorszámát (például: 3. feladat:). Ha a felhasználótól kér be adatot, jelenítse meg a képernyőn, hogy milyen értéket vár!
+
+1. Olvassa be az input12.txt állományban talált adatokat, s annak felhasználásával oldja meg a következő feladatokat!
+1. Kérje be a felhasználótól egy forduló számát, majd írja a képernyőre a bekért forduló mérkőzéseinek adatait a következő formában: Edes-Savanyu: 2-0 (1-0)! Soronként egy mérkőzést tüntessen fel! A különböző sorokban a csapatnevek ugyanazon a pozíción kezdődjenek!
+Például:
+
+    Edes-Savanyu: 2-0 (1-0)
+    Ijedtek-Hevesek: 0-2 (0-2)
+    ...
+
+1. Határozza meg, hogy a bajnokság során mely csapatoknak sikerült megfordítaniuk az állást a második félidőben! Ez azt jelenti, hogy a csapat az első félidőben vesztésre állt ugyan, de sikerült a mérkőzést megnyernie. A képernyőn soronként tüntesse fel a forduló sorszámát és a győztes csapat nevét!
+1. Kérje be a felhasználótól egy csapat nevét, és tárolja el! A következő két feladat megoldásához ezt a csapatnevet használja!
+1. Határozza meg, majd írja ki, hogy az adott csapat összesen hány gólt lőtt és hány gólt kapott! Például: lőtt: 23 kapott: 12
+1. Határozza meg, hogy az adott csapat otthon melyik fordulóban kapott ki először és melyik csapattól! Ha egyszer sem kapott ki (ilyen csapat például a Bogarak), akkor „A csapat otthon veretlen maradt.” szöveget írja a képernyőre!
+1. Készítsen statisztikát, amely megadja, hogy az egyes végeredmények hány alkalommal fordultak elő! Tekintse egyezőnek a fordított eredményeket (például 4-2 és 2-4)! A nagyobb számot mindig előre írja! Az elkészült listát a stat.txt állományban helyezze el!
+
+Például:
+
+    2-1: 18 darab
+    4-0: 2 darab
+    2-0: 19 darab
+    ...
